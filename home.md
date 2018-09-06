@@ -3,7 +3,6 @@
 
 # Header
 This is our new home page
-
-#Footer
+# Footer
 
 What?
